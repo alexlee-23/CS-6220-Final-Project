@@ -1,0 +1,947 @@
+year,player_id,"last_name, first_name",HitterType2_Group,HitterType2,ClusteringStats_Group,ClusteringStats
+2019,405395,"Pujols, Albert",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,408234,"Cabrera, Miguel",2,Balanced Hitters,2,Aggressive Fastball
+2019,425783,"Choo, Shin-Soo",2,Balanced Hitters,0,Selective / Moderate
+2019,430945,"Jones, Adam",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,443558,"Cruz, Nelson",1,Power Hitters,2,Aggressive Fastball
+2019,446334,"Longoria, Evan",2,Balanced Hitters,2,Aggressive Fastball
+2019,451594,"Fowler, Dexter",0,Hitters With Good Contact,0,Selective / Moderate
+2019,452678,"Cabrera, Asdrúbal",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,453568,"Blackmon, Charlie",2,Balanced Hitters,2,Aggressive Fastball
+2019,456715,"Cain, Lorenzo",2,Balanced Hitters,2,Aggressive Fastball
+2019,457759,"Turner, Justin",2,Balanced Hitters,2,Aggressive Fastball
+2019,458015,"Votto, Joey",2,Balanced Hitters,2,Aggressive Fastball
+2019,458731,"Gardner, Brett",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,460075,"Braun, Ryan",2,Balanced Hitters,2,Aggressive Fastball
+2019,460086,"Gordon, Alex",2,Balanced Hitters,2,Aggressive Fastball
+2019,462101,"Andrus, Elvis",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,467092,"Ramos, Wilson",2,Balanced Hitters,2,Aggressive Fastball
+2019,467793,"Santana, Carlos",2,Balanced Hitters,0,Selective / Moderate
+2019,474832,"Belt, Brandon",2,Balanced Hitters,2,Aggressive Fastball
+2019,488726,"Brantley, Michael",2,Balanced Hitters,2,Aggressive Fastball
+2019,493329,"Gurriel, Yuli",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,500743,"Rojas, Miguel",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,500871,"Escobar, Eduardo",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,501981,"Davis, Khris",2,Balanced Hitters,0,Selective / Moderate
+2019,502054,"Pham, Tommy",2,Balanced Hitters,2,Aggressive Fastball
+2019,502110,"Martinez, J.D.",1,Power Hitters,2,Aggressive Fastball
+2019,502210,"Reddick, Josh",0,Hitters With Good Contact,0,Selective / Moderate
+2019,502671,"Goldschmidt, Paul",2,Balanced Hitters,2,Aggressive Fastball
+2019,514888,"Altuve, Jose",0,Hitters With Good Contact,0,Selective / Moderate
+2019,514917,"Hernández, César",0,Hitters With Good Contact,0,Selective / Moderate
+2019,516416,"Segura, Jean",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,516770,"Castro, Starlin",2,Balanced Hitters,2,Aggressive Fastball
+2019,516782,"Marte, Starling",2,Balanced Hitters,2,Aggressive Fastball
+2019,518626,"Donaldson, Josh",1,Power Hitters,2,Aggressive Fastball
+2019,518692,"Freeman, Freddie",2,Balanced Hitters,0,Selective / Moderate
+2019,518735,"Grandal, Yasmani",2,Balanced Hitters,0,Selective / Moderate
+2019,518792,"Heyward, Jason",2,Balanced Hitters,2,Aggressive Fastball
+2019,518934,"LeMahieu, DJ",2,Balanced Hitters,2,Aggressive Fastball
+2019,519058,"Moustakas, Mike",2,Balanced Hitters,2,Aggressive Fastball
+2019,519203,"Rizzo, Anthony",2,Balanced Hitters,2,Aggressive Fastball
+2019,520471,"Galvis, Freddy",0,Hitters With Good Contact,0,Selective / Moderate
+2019,541645,"García, Avisaíl",1,Power Hitters,2,Aggressive Fastball
+2019,542303,"Ozuna, Marcell",1,Power Hitters,2,Aggressive Fastball
+2019,542340,"Villar, Jonathan",2,Balanced Hitters,0,Selective / Moderate
+2019,542454,"Santana, Danny",2,Balanced Hitters,0,Selective / Moderate
+2019,543063,"Crawford, Brandon",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,543333,"Hosmer, Eric",2,Balanced Hitters,2,Aggressive Fastball
+2019,543401,"Kipnis, Jason",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,543685,"Rendon, Anthony",2,Balanced Hitters,2,Aggressive Fastball
+2019,543760,"Semien, Marcus",2,Balanced Hitters,2,Aggressive Fastball
+2019,543807,"Springer, George",1,Power Hitters,2,Aggressive Fastball
+2019,543877,"Vázquez, Christian",2,Balanced Hitters,2,Aggressive Fastball
+2019,543939,"Wong, Kolten",0,Hitters With Good Contact,0,Selective / Moderate
+2019,544725,"García, Leury",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,545341,"Grichuk, Randal",2,Balanced Hitters,2,Aggressive Fastball
+2019,545361,"Trout, Mike",1,Power Hitters,2,Aggressive Fastball
+2019,547180,"Harper, Bryce",1,Power Hitters,0,Selective / Moderate
+2019,547989,"Abreu, José",1,Power Hitters,2,Aggressive Fastball
+2019,553993,"Suárez, Eugenio",1,Power Hitters,2,Aggressive Fastball
+2019,570267,"Santana, Domingo",2,Balanced Hitters,2,Aggressive Fastball
+2019,570560,"Sánchez, Yolmer",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,571448,"Arenado, Nolan",2,Balanced Hitters,2,Aggressive Fastball
+2019,571970,"Muncy, Max",2,Balanced Hitters,2,Aggressive Fastball
+2019,572228,"Voit, Luke",1,Power Hitters,2,Aggressive Fastball
+2019,572233,"Walker, Christian",1,Power Hitters,2,Aggressive Fastball
+2019,578428,"Iglesias, Jose",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,592178,"Bryant, Kris",2,Balanced Hitters,2,Aggressive Fastball
+2019,592206,"Castellanos, Nick",2,Balanced Hitters,2,Aggressive Fastball
+2019,592518,"Machado, Manny",2,Balanced Hitters,2,Aggressive Fastball
+2019,592567,"Moran, Colin",2,Balanced Hitters,2,Aggressive Fastball
+2019,592626,"Pederson, Joc",2,Balanced Hitters,0,Selective / Moderate
+2019,592663,"Realmuto, J.T.",2,Balanced Hitters,2,Aggressive Fastball
+2019,592696,"Rosario, Eddie",2,Balanced Hitters,0,Selective / Moderate
+2019,592885,"Yelich, Christian",1,Power Hitters,2,Aggressive Fastball
+2019,593160,"Merrifield, Whit",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,593428,"Bogaerts, Xander",2,Balanced Hitters,2,Aggressive Fastball
+2019,593643,"Alberto, Hanser",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,593871,"Polanco, Jorge",0,Hitters With Good Contact,0,Selective / Moderate
+2019,594777,"Calhoun, Kole",2,Balanced Hitters,0,Selective / Moderate
+2019,594809,"Eaton, Adam",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,595777,"Profar, Jurickson",0,Hitters With Good Contact,0,Selective / Moderate
+2019,595879,"Báez, Javier",1,Power Hitters,2,Aggressive Fastball
+2019,596019,"Lindor, Francisco",2,Balanced Hitters,0,Selective / Moderate
+2019,596059,"Odor, Rougned",1,Power Hitters,2,Aggressive Fastball
+2019,596115,"Story, Trevor",2,Balanced Hitters,2,Aggressive Fastball
+2019,596129,"Vogelbach, Daniel",2,Balanced Hitters,2,Aggressive Fastball
+2019,596146,"Kepler, Max",2,Balanced Hitters,2,Aggressive Fastball
+2019,598265,"Bradley Jr., Jackie",2,Balanced Hitters,0,Selective / Moderate
+2019,600524,"Núñez, Renato",2,Balanced Hitters,2,Aggressive Fastball
+2019,605113,"Ahmed, Nick",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,605119,"Anderson, Brian",2,Balanced Hitters,2,Aggressive Fastball
+2019,605137,"Bell, Josh",1,Power Hitters,0,Selective / Moderate
+2019,605141,"Betts, Mookie",2,Balanced Hitters,2,Aggressive Fastball
+2019,605480,"Smith, Mallex",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,606115,"Arcia, Orlando",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,606466,"Marte, Ketel",2,Balanced Hitters,0,Selective / Moderate
+2019,607208,"Turner, Trea",2,Balanced Hitters,2,Aggressive Fastball
+2019,607680,"Pillar, Kevin",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,608070,"Ramírez, José",2,Balanced Hitters,0,Selective / Moderate
+2019,608324,"Bregman, Alex",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,608369,"Seager, Corey",2,Balanced Hitters,0,Selective / Moderate
+2019,614177,"Reyes, Franmil",1,Power Hitters,2,Aggressive Fastball
+2019,621020,"Swanson, Dansby",2,Balanced Hitters,2,Aggressive Fastball
+2019,621028,"Newman, Kevin",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,621566,"Olson, Matt",1,Power Hitters,2,Aggressive Fastball
+2019,624413,"Alonso, Pete",1,Power Hitters,2,Aggressive Fastball
+2019,624424,"Conforto, Michael",2,Balanced Hitters,0,Selective / Moderate
+2019,624428,"Frazier, Adam",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,624577,"Puig, Yasiel",2,Balanced Hitters,2,Aggressive Fastball
+2019,624585,"Soler, Jorge",1,Power Hitters,2,Aggressive Fastball
+2019,640457,"Meadows, Austin",1,Power Hitters,2,Aggressive Fastball
+2019,641313,"Anderson, Tim",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,641355,"Bellinger, Cody",1,Power Hitters,0,Selective / Moderate
+2019,641531,"Dozier, Hunter",2,Balanced Hitters,2,Aggressive Fastball
+2019,641820,"Mancini, Trey",2,Balanced Hitters,2,Aggressive Fastball
+2019,641857,"McMahon, Ryan",1,Power Hitters,2,Aggressive Fastball
+2019,642708,"Rosario, Amed",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,642715,"Adames, Willy",2,Balanced Hitters,2,Aggressive Fastball
+2019,643217,"Benintendi, Andrew",2,Balanced Hitters,2,Aggressive Fastball
+2019,643446,"McNeil, Jeff",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,645277,"Albies, Ozzie",2,Balanced Hitters,0,Selective / Moderate
+2019,645302,"Robles, Victor",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,646240,"Devers, Rafael",1,Power Hitters,2,Aggressive Fastball
+2019,650391,"Jiménez, Eloy",1,Power Hitters,2,Aggressive Fastball
+2019,650402,"Torres, Gleyber",2,Balanced Hitters,2,Aggressive Fastball
+2019,656305,"Chapman, Matt",1,Power Hitters,2,Aggressive Fastball
+2019,656555,"Hoskins, Rhys",2,Balanced Hitters,2,Aggressive Fastball
+2019,656941,"Schwarber, Kyle",1,Power Hitters,2,Aggressive Fastball
+2019,657557,"DeJong, Paul",2,Balanced Hitters,2,Aggressive Fastball
+2019,660162,"Moncada, Yoán",1,Power Hitters,0,Selective / Moderate
+2019,660670,"Acuña Jr., Ronald",1,Power Hitters,2,Aggressive Fastball
+2019,664058,"Fletcher, David",0,Hitters With Good Contact,2,Aggressive Fastball
+2019,665489,"Guerrero Jr., Vladimir",2,Balanced Hitters,2,Aggressive Fastball
+2019,665742,"Soto, Juan",1,Power Hitters,0,Selective / Moderate
+2019,668804,"Reynolds, Bryan",2,Balanced Hitters,0,Selective / Moderate
+2020,408234,"Cabrera, Miguel",1,Power Hitters,1,Balanced / Mixed
+2020,443558,"Cruz, Nelson",1,Power Hitters,1,Balanced / Mixed
+2020,444482,"Peralta, David",2,Balanced Hitters,1,Balanced / Mixed
+2020,446334,"Longoria, Evan",1,Power Hitters,1,Balanced / Mixed
+2020,452678,"Cabrera, Asdrúbal",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,453568,"Blackmon, Charlie",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,456781,"Solano, Donovan",2,Balanced Hitters,1,Balanced / Mixed
+2020,457705,"McCutchen, Andrew",2,Balanced Hitters,1,Balanced / Mixed
+2020,458015,"Votto, Joey",2,Balanced Hitters,1,Balanced / Mixed
+2020,467793,"Santana, Carlos",2,Balanced Hitters,1,Balanced / Mixed
+2020,488726,"Brantley, Michael",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,493329,"Gurriel, Yuli",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,500871,"Escobar, Eduardo",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,502110,"Martinez, J.D.",2,Balanced Hitters,1,Balanced / Mixed
+2020,502210,"Reddick, Josh",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,502671,"Goldschmidt, Paul",2,Balanced Hitters,1,Balanced / Mixed
+2020,503556,"Gonzalez, Marwin",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,514888,"Altuve, Jose",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,514917,"Hernández, César",2,Balanced Hitters,1,Balanced / Mixed
+2020,516416,"Segura, Jean",2,Balanced Hitters,1,Balanced / Mixed
+2020,516782,"Marte, Starling",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,518692,"Freeman, Freddie",1,Power Hitters,1,Balanced / Mixed
+2020,518735,"Grandal, Yasmani",2,Balanced Hitters,1,Balanced / Mixed
+2020,518934,"LeMahieu, DJ",2,Balanced Hitters,1,Balanced / Mixed
+2020,519203,"Rizzo, Anthony",2,Balanced Hitters,1,Balanced / Mixed
+2020,527038,"Flores, Wilmer",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,541645,"García, Avisaíl",2,Balanced Hitters,1,Balanced / Mixed
+2020,542303,"Ozuna, Marcell",1,Power Hitters,1,Balanced / Mixed
+2020,542340,"Villar, Jonathan",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,542583,"Aguilar, Jesús",2,Balanced Hitters,1,Balanced / Mixed
+2020,543063,"Crawford, Brandon",2,Balanced Hitters,1,Balanced / Mixed
+2020,543257,"Grossman, Robbie",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,543305,"Hicks, Aaron",2,Balanced Hitters,1,Balanced / Mixed
+2020,543685,"Rendon, Anthony",2,Balanced Hitters,1,Balanced / Mixed
+2020,543760,"Semien, Marcus",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,543807,"Springer, George",2,Balanced Hitters,1,Balanced / Mixed
+2020,543877,"Vázquez, Christian",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,543939,"Wong, Kolten",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,544369,"Gregorius, Didi",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,545341,"Grichuk, Randal",2,Balanced Hitters,1,Balanced / Mixed
+2020,545361,"Trout, Mike",1,Power Hitters,1,Balanced / Mixed
+2020,547004,"Ruiz, Rio",2,Balanced Hitters,1,Balanced / Mixed
+2020,547180,"Harper, Bryce",1,Power Hitters,1,Balanced / Mixed
+2020,547989,"Abreu, José",1,Power Hitters,1,Balanced / Mixed
+2020,553993,"Suárez, Eugenio",1,Power Hitters,1,Balanced / Mixed
+2020,570481,"González, Erik",2,Balanced Hitters,1,Balanced / Mixed
+2020,571448,"Arenado, Nolan",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,571970,"Muncy, Max",2,Balanced Hitters,1,Balanced / Mixed
+2020,571976,"Myers, Wil",1,Power Hitters,1,Balanced / Mixed
+2020,572041,"Pollock, AJ",2,Balanced Hitters,1,Balanced / Mixed
+2020,572122,"Seager, Kyle",2,Balanced Hitters,1,Balanced / Mixed
+2020,572228,"Voit, Luke",2,Balanced Hitters,1,Balanced / Mixed
+2020,572233,"Walker, Christian",2,Balanced Hitters,1,Balanced / Mixed
+2020,572816,"Dickerson, Corey",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,573262,"Yastrzemski, Mike",2,Balanced Hitters,1,Balanced / Mixed
+2020,575929,"Contreras, Willson",1,Power Hitters,1,Balanced / Mixed
+2020,592192,"Canha, Mark",2,Balanced Hitters,1,Balanced / Mixed
+2020,592206,"Castellanos, Nick",1,Power Hitters,1,Balanced / Mixed
+2020,592518,"Machado, Manny",1,Power Hitters,1,Balanced / Mixed
+2020,592567,"Moran, Colin",1,Power Hitters,1,Balanced / Mixed
+2020,592663,"Realmuto, J.T.",1,Power Hitters,1,Balanced / Mixed
+2020,592696,"Rosario, Eddie",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,592885,"Yelich, Christian",1,Power Hitters,1,Balanced / Mixed
+2020,593160,"Merrifield, Whit",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,593428,"Bogaerts, Xander",2,Balanced Hitters,1,Balanced / Mixed
+2020,593643,"Alberto, Hanser",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,593871,"Polanco, Jorge",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,593934,"Sanó, Miguel",1,Power Hitters,1,Balanced / Mixed
+2020,594777,"Calhoun, Kole",2,Balanced Hitters,1,Balanced / Mixed
+2020,594807,"Duvall, Adam",2,Balanced Hitters,1,Balanced / Mixed
+2020,595777,"Profar, Jurickson",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,595879,"Báez, Javier",2,Balanced Hitters,1,Balanced / Mixed
+2020,596019,"Lindor, Francisco",2,Balanced Hitters,1,Balanced / Mixed
+2020,596115,"Story, Trevor",2,Balanced Hitters,1,Balanced / Mixed
+2020,596146,"Kepler, Max",2,Balanced Hitters,1,Balanced / Mixed
+2020,596748,"Franco, Maikel",2,Balanced Hitters,1,Balanced / Mixed
+2020,598265,"Bradley Jr., Jackie",2,Balanced Hitters,1,Balanced / Mixed
+2020,600303,"La Stella, Tommy",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,600524,"Núñez, Renato",2,Balanced Hitters,1,Balanced / Mixed
+2020,600869,"Candelario, Jeimer",1,Power Hitters,1,Balanced / Mixed
+2020,605113,"Ahmed, Nick",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,605119,"Anderson, Brian",2,Balanced Hitters,1,Balanced / Mixed
+2020,605137,"Bell, Josh",2,Balanced Hitters,1,Balanced / Mixed
+2020,605141,"Betts, Mookie",2,Balanced Hitters,1,Balanced / Mixed
+2020,605204,"Davis, J.D.",2,Balanced Hitters,1,Balanced / Mixed
+2020,606115,"Arcia, Orlando",2,Balanced Hitters,1,Balanced / Mixed
+2020,606132,"Tapia, Raimel",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,606192,"Hernández, Teoscar",1,Power Hitters,1,Balanced / Mixed
+2020,606466,"Marte, Ketel",2,Balanced Hitters,1,Balanced / Mixed
+2020,607043,"Nimmo, Brandon",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,607208,"Turner, Trea",2,Balanced Hitters,1,Balanced / Mixed
+2020,607680,"Pillar, Kevin",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,608070,"Ramírez, José",2,Balanced Hitters,1,Balanced / Mixed
+2020,608336,"Gallo, Joey",1,Power Hitters,1,Balanced / Mixed
+2020,608369,"Seager, Corey",1,Power Hitters,1,Balanced / Mixed
+2020,609275,"Mondesi, Adalberto",2,Balanced Hitters,1,Balanced / Mixed
+2020,614177,"Reyes, Franmil",1,Power Hitters,1,Balanced / Mixed
+2020,621020,"Swanson, Dansby",2,Balanced Hitters,1,Balanced / Mixed
+2020,621035,"Taylor, Chris",2,Balanced Hitters,1,Balanced / Mixed
+2020,621043,"Correa, Carlos",2,Balanced Hitters,1,Balanced / Mixed
+2020,621566,"Olson, Matt",1,Power Hitters,1,Balanced / Mixed
+2020,622682,"Reyes, Victor",2,Balanced Hitters,1,Balanced / Mixed
+2020,624413,"Alonso, Pete",1,Power Hitters,1,Balanced / Mixed
+2020,624415,"Biggio, Cavan",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,624424,"Conforto, Michael",2,Balanced Hitters,1,Balanced / Mixed
+2020,624428,"Frazier, Adam",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,630105,"Cronenworth, Jake",2,Balanced Hitters,1,Balanced / Mixed
+2020,641313,"Anderson, Tim",2,Balanced Hitters,1,Balanced / Mixed
+2020,641355,"Bellinger, Cody",2,Balanced Hitters,1,Balanced / Mixed
+2020,641487,"Crawford, J.P.",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,641531,"Dozier, Hunter",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,641786,"Lewis, Kyle",2,Balanced Hitters,1,Balanced / Mixed
+2020,641857,"McMahon, Ryan",2,Balanced Hitters,1,Balanced / Mixed
+2020,642086,"Smith, Dominic",1,Power Hitters,1,Balanced / Mixed
+2020,642715,"Adames, Willy",2,Balanced Hitters,1,Balanced / Mixed
+2020,643396,"Kiner-Falefa, Isiah",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,643446,"McNeil, Jeff",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,645302,"Robles, Victor",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,646240,"Devers, Rafael",1,Power Hitters,1,Balanced / Mixed
+2020,650391,"Jiménez, Eloy",1,Power Hitters,1,Balanced / Mixed
+2020,656941,"Schwarber, Kyle",1,Power Hitters,1,Balanced / Mixed
+2020,657077,"Verdugo, Alex",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,657108,"White, Evan",1,Power Hitters,1,Balanced / Mixed
+2020,657656,"Laureano, Ramón",2,Balanced Hitters,1,Balanced / Mixed
+2020,660162,"Moncada, Yoán",2,Balanced Hitters,1,Balanced / Mixed
+2020,660670,"Acuña Jr., Ronald",1,Power Hitters,1,Balanced / Mixed
+2020,663586,"Riley, Austin",2,Balanced Hitters,1,Balanced / Mixed
+2020,663656,"Tucker, Kyle",2,Balanced Hitters,1,Balanced / Mixed
+2020,663757,"Grisham, Trent",2,Balanced Hitters,1,Balanced / Mixed
+2020,664023,"Happ, Ian",2,Balanced Hitters,1,Balanced / Mixed
+2020,664040,"Lowe, Brandon",1,Power Hitters,1,Balanced / Mixed
+2020,664058,"Fletcher, David",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,665487,"Tatis Jr., Fernando",1,Power Hitters,1,Balanced / Mixed
+2020,665489,"Guerrero Jr., Vladimir",1,Power Hitters,1,Balanced / Mixed
+2020,665742,"Soto, Juan",1,Power Hitters,1,Balanced / Mixed
+2020,666971,"Gurriel Jr., Lourdes",1,Power Hitters,1,Balanced / Mixed
+2020,668804,"Reynolds, Bryan",2,Balanced Hitters,1,Balanced / Mixed
+2020,669242,"Edman, Tommy",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,669256,"Solak, Nick",2,Balanced Hitters,1,Balanced / Mixed
+2020,669374,"Hiura, Keston",2,Balanced Hitters,1,Balanced / Mixed
+2020,670032,"Lopez, Nicky",0,Hitters With Good Contact,1,Balanced / Mixed
+2020,673357,"Robert Jr., Luis",1,Power Hitters,1,Balanced / Mixed
+2021,408234,"Cabrera, Miguel",2,Balanced Hitters,2,Aggressive Fastball
+2021,443558,"Cruz, Nelson",1,Power Hitters,2,Aggressive Fastball
+2021,444482,"Peralta, David",2,Balanced Hitters,0,Selective / Moderate
+2021,453568,"Blackmon, Charlie",2,Balanced Hitters,2,Aggressive Fastball
+2021,457705,"McCutchen, Andrew",2,Balanced Hitters,2,Aggressive Fastball
+2021,457759,"Turner, Justin",2,Balanced Hitters,2,Aggressive Fastball
+2021,458015,"Votto, Joey",1,Power Hitters,0,Selective / Moderate
+2021,462101,"Andrus, Elvis",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,467793,"Santana, Carlos",2,Balanced Hitters,0,Selective / Moderate
+2021,476704,"Lowrie, Jed",2,Balanced Hitters,0,Selective / Moderate
+2021,488726,"Brantley, Michael",2,Balanced Hitters,2,Aggressive Fastball
+2021,493329,"Gurriel, Yuli",2,Balanced Hitters,2,Aggressive Fastball
+2021,500743,"Rojas, Miguel",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,500871,"Escobar, Eduardo",2,Balanced Hitters,2,Aggressive Fastball
+2021,502054,"Pham, Tommy",2,Balanced Hitters,2,Aggressive Fastball
+2021,502110,"Martinez, J.D.",1,Power Hitters,2,Aggressive Fastball
+2021,502671,"Goldschmidt, Paul",1,Power Hitters,2,Aggressive Fastball
+2021,514888,"Altuve, Jose",0,Hitters With Good Contact,0,Selective / Moderate
+2021,514917,"Hernández, César",0,Hitters With Good Contact,0,Selective / Moderate
+2021,516416,"Segura, Jean",2,Balanced Hitters,2,Aggressive Fastball
+2021,516782,"Marte, Starling",2,Balanced Hitters,2,Aggressive Fastball
+2021,518626,"Donaldson, Josh",1,Power Hitters,2,Aggressive Fastball
+2021,518692,"Freeman, Freddie",1,Power Hitters,0,Selective / Moderate
+2021,518934,"LeMahieu, DJ",2,Balanced Hitters,2,Aggressive Fastball
+2021,519203,"Rizzo, Anthony",2,Balanced Hitters,2,Aggressive Fastball
+2021,519317,"Stanton, Giancarlo",1,Power Hitters,2,Aggressive Fastball
+2021,521692,"Perez, Salvador",1,Power Hitters,0,Selective / Moderate
+2021,541645,"García, Avisaíl",1,Power Hitters,2,Aggressive Fastball
+2021,542340,"Villar, Jonathan",2,Balanced Hitters,2,Aggressive Fastball
+2021,542583,"Aguilar, Jesús",2,Balanced Hitters,2,Aggressive Fastball
+2021,543063,"Crawford, Brandon",2,Balanced Hitters,0,Selective / Moderate
+2021,543068,"Cron, C.J.",2,Balanced Hitters,2,Aggressive Fastball
+2021,543257,"Grossman, Robbie",2,Balanced Hitters,0,Selective / Moderate
+2021,543281,"Harrison, Josh",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,543333,"Hosmer, Eric",2,Balanced Hitters,2,Aggressive Fastball
+2021,543760,"Semien, Marcus",2,Balanced Hitters,2,Aggressive Fastball
+2021,545341,"Grichuk, Randal",2,Balanced Hitters,2,Aggressive Fastball
+2021,547180,"Harper, Bryce",1,Power Hitters,0,Selective / Moderate
+2021,547989,"Abreu, José",1,Power Hitters,2,Aggressive Fastball
+2021,553993,"Suárez, Eugenio",2,Balanced Hitters,2,Aggressive Fastball
+2021,570731,"Schoop, Jonathan",2,Balanced Hitters,2,Aggressive Fastball
+2021,571448,"Arenado, Nolan",2,Balanced Hitters,2,Aggressive Fastball
+2021,571657,"Farmer, Kyle",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,571745,"Haniger, Mitch",2,Balanced Hitters,0,Selective / Moderate
+2021,571771,"Hernández, Enrique",2,Balanced Hitters,2,Aggressive Fastball
+2021,571970,"Muncy, Max",1,Power Hitters,0,Selective / Moderate
+2021,572122,"Seager, Kyle",2,Balanced Hitters,0,Selective / Moderate
+2021,572191,"Taylor, Michael A.",2,Balanced Hitters,2,Aggressive Fastball
+2021,573262,"Yastrzemski, Mike",2,Balanced Hitters,2,Aggressive Fastball
+2021,578428,"Iglesias, Jose",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,592178,"Bryant, Kris",2,Balanced Hitters,0,Selective / Moderate
+2021,592192,"Canha, Mark",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,592206,"Castellanos, Nick",1,Power Hitters,0,Selective / Moderate
+2021,592450,"Judge, Aaron",1,Power Hitters,0,Selective / Moderate
+2021,592518,"Machado, Manny",1,Power Hitters,2,Aggressive Fastball
+2021,592663,"Realmuto, J.T.",2,Balanced Hitters,2,Aggressive Fastball
+2021,592669,"Renfroe, Hunter",1,Power Hitters,2,Aggressive Fastball
+2021,593160,"Merrifield, Whit",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,593428,"Bogaerts, Xander",2,Balanced Hitters,2,Aggressive Fastball
+2021,593871,"Polanco, Jorge",2,Balanced Hitters,0,Selective / Moderate
+2021,593934,"Sanó, Miguel",1,Power Hitters,0,Selective / Moderate
+2021,594807,"Duvall, Adam",1,Power Hitters,2,Aggressive Fastball
+2021,595879,"Báez, Javier",1,Power Hitters,2,Aggressive Fastball
+2021,596019,"Lindor, Francisco",2,Balanced Hitters,2,Aggressive Fastball
+2021,596115,"Story, Trevor",2,Balanced Hitters,2,Aggressive Fastball
+2021,600869,"Candelario, Jeimer",2,Balanced Hitters,0,Selective / Moderate
+2021,605137,"Bell, Josh",1,Power Hitters,0,Selective / Moderate
+2021,605141,"Betts, Mookie",2,Balanced Hitters,2,Aggressive Fastball
+2021,606132,"Tapia, Raimel",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,606192,"Hernández, Teoscar",1,Power Hitters,2,Aggressive Fastball
+2021,607208,"Turner, Trea",2,Balanced Hitters,2,Aggressive Fastball
+2021,608070,"Ramírez, José",2,Balanced Hitters,0,Selective / Moderate
+2021,608336,"Gallo, Joey",1,Power Hitters,0,Selective / Moderate
+2021,621020,"Swanson, Dansby",2,Balanced Hitters,2,Aggressive Fastball
+2021,621028,"Newman, Kevin",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,621035,"Taylor, Chris",2,Balanced Hitters,2,Aggressive Fastball
+2021,621043,"Correa, Carlos",2,Balanced Hitters,2,Aggressive Fastball
+2021,621566,"Olson, Matt",1,Power Hitters,2,Aggressive Fastball
+2021,624413,"Alonso, Pete",1,Power Hitters,2,Aggressive Fastball
+2021,624428,"Frazier, Adam",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,624585,"Soler, Jorge",1,Power Hitters,2,Aggressive Fastball
+2021,630105,"Cronenworth, Jake",2,Balanced Hitters,2,Aggressive Fastball
+2021,640457,"Meadows, Austin",2,Balanced Hitters,0,Selective / Moderate
+2021,641313,"Anderson, Tim",2,Balanced Hitters,2,Aggressive Fastball
+2021,641487,"Crawford, J.P.",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,641531,"Dozier, Hunter",2,Balanced Hitters,2,Aggressive Fastball
+2021,641820,"Mancini, Trey",2,Balanced Hitters,0,Selective / Moderate
+2021,641857,"McMahon, Ryan",2,Balanced Hitters,0,Selective / Moderate
+2021,641933,"O'Neill, Tyler",1,Power Hitters,2,Aggressive Fastball
+2021,642708,"Rosario, Amed",2,Balanced Hitters,2,Aggressive Fastball
+2021,642715,"Adames, Willy",2,Balanced Hitters,2,Aggressive Fastball
+2021,643217,"Benintendi, Andrew",2,Balanced Hitters,0,Selective / Moderate
+2021,643396,"Kiner-Falefa, Isiah",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,645277,"Albies, Ozzie",2,Balanced Hitters,0,Selective / Moderate
+2021,646240,"Devers, Rafael",1,Power Hitters,2,Aggressive Fastball
+2021,649966,"Urías, Luis",2,Balanced Hitters,2,Aggressive Fastball
+2021,650402,"Torres, Gleyber",2,Balanced Hitters,2,Aggressive Fastball
+2021,650490,"Díaz, Yandy",2,Balanced Hitters,2,Aggressive Fastball
+2021,656305,"Chapman, Matt",1,Power Hitters,2,Aggressive Fastball
+2021,656775,"Mullins, Cedric",2,Balanced Hitters,2,Aggressive Fastball
+2021,656976,"Smith, Pavin",2,Balanced Hitters,2,Aggressive Fastball
+2021,657077,"Verdugo, Alex",2,Balanced Hitters,0,Selective / Moderate
+2021,660162,"Moncada, Yoán",2,Balanced Hitters,0,Selective / Moderate
+2021,660271,"Ohtani, Shohei",1,Power Hitters,0,Selective / Moderate
+2021,663586,"Riley, Austin",1,Power Hitters,2,Aggressive Fastball
+2021,663624,"Mountcastle, Ryan",2,Balanced Hitters,2,Aggressive Fastball
+2021,663656,"Tucker, Kyle",1,Power Hitters,0,Selective / Moderate
+2021,663697,"India, Jonathan",2,Balanced Hitters,2,Aggressive Fastball
+2021,663757,"Grisham, Trent",2,Balanced Hitters,2,Aggressive Fastball
+2021,663993,"Lowe, Nathaniel",2,Balanced Hitters,2,Aggressive Fastball
+2021,664023,"Happ, Ian",2,Balanced Hitters,2,Aggressive Fastball
+2021,664034,"France, Ty",2,Balanced Hitters,2,Aggressive Fastball
+2021,664040,"Lowe, Brandon",1,Power Hitters,0,Selective / Moderate
+2021,664058,"Fletcher, David",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,664702,"Straw, Myles",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,665120,"Walsh, Jared",2,Balanced Hitters,2,Aggressive Fastball
+2021,665487,"Tatis Jr., Fernando",1,Power Hitters,0,Selective / Moderate
+2021,665489,"Guerrero Jr., Vladimir",1,Power Hitters,0,Selective / Moderate
+2021,665742,"Soto, Juan",1,Power Hitters,0,Selective / Moderate
+2021,665862,"Chisholm Jr., Jazz",2,Balanced Hitters,0,Selective / Moderate
+2021,666182,"Bichette, Bo",1,Power Hitters,2,Aggressive Fastball
+2021,666185,"Carlson, Dylan",0,Hitters With Good Contact,0,Selective / Moderate
+2021,666969,"García, Adolis",2,Balanced Hitters,0,Selective / Moderate
+2021,666971,"Gurriel Jr., Lourdes",2,Balanced Hitters,2,Aggressive Fastball
+2021,668227,"Arozarena, Randy",2,Balanced Hitters,0,Selective / Moderate
+2021,668804,"Reynolds, Bryan",2,Balanced Hitters,0,Selective / Moderate
+2021,668942,"Rojas, Josh",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,669242,"Edman, Tommy",0,Hitters With Good Contact,0,Selective / Moderate
+2021,669256,"Solak, Nick",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,669720,"Hays, Austin",2,Balanced Hitters,0,Selective / Moderate
+2021,670032,"Lopez, Nicky",0,Hitters With Good Contact,2,Aggressive Fastball
+2021,670541,"Alvarez, Yordan",1,Power Hitters,0,Selective / Moderate
+2022,443558,"Cruz, Nelson",2,Balanced Hitters,2,Aggressive Fastball
+2022,453568,"Blackmon, Charlie",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,457705,"McCutchen, Andrew",2,Balanced Hitters,2,Aggressive Fastball
+2022,457759,"Turner, Justin",2,Balanced Hitters,2,Aggressive Fastball
+2022,462101,"Andrus, Elvis",0,Hitters With Good Contact,0,Selective / Moderate
+2022,467793,"Santana, Carlos",2,Balanced Hitters,0,Selective / Moderate
+2022,493329,"Gurriel, Yuli",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,500743,"Rojas, Miguel",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,500871,"Escobar, Eduardo",2,Balanced Hitters,0,Selective / Moderate
+2022,502054,"Pham, Tommy",2,Balanced Hitters,2,Aggressive Fastball
+2022,502110,"Martinez, J.D.",1,Power Hitters,2,Aggressive Fastball
+2022,502671,"Goldschmidt, Paul",1,Power Hitters,2,Aggressive Fastball
+2022,514888,"Altuve, Jose",0,Hitters With Good Contact,0,Selective / Moderate
+2022,514917,"Hernández, César",0,Hitters With Good Contact,0,Selective / Moderate
+2022,516782,"Marte, Starling",2,Balanced Hitters,2,Aggressive Fastball
+2022,518626,"Donaldson, Josh",2,Balanced Hitters,0,Selective / Moderate
+2022,518692,"Freeman, Freddie",2,Balanced Hitters,0,Selective / Moderate
+2022,518934,"LeMahieu, DJ",2,Balanced Hitters,2,Aggressive Fastball
+2022,519203,"Rizzo, Anthony",2,Balanced Hitters,0,Selective / Moderate
+2022,527038,"Flores, Wilmer",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,542303,"Ozuna, Marcell",1,Power Hitters,2,Aggressive Fastball
+2022,542583,"Aguilar, Jesús",2,Balanced Hitters,2,Aggressive Fastball
+2022,543068,"Cron, C.J.",2,Balanced Hitters,2,Aggressive Fastball
+2022,543760,"Semien, Marcus",0,Hitters With Good Contact,0,Selective / Moderate
+2022,543807,"Springer, George",2,Balanced Hitters,0,Selective / Moderate
+2022,545341,"Grichuk, Randal",2,Balanced Hitters,2,Aggressive Fastball
+2022,547989,"Abreu, José",1,Power Hitters,2,Aggressive Fastball
+2022,553993,"Suárez, Eugenio",1,Power Hitters,2,Aggressive Fastball
+2022,570482,"Urshela, Gio",2,Balanced Hitters,2,Aggressive Fastball
+2022,570731,"Schoop, Jonathan",2,Balanced Hitters,2,Aggressive Fastball
+2022,571448,"Arenado, Nolan",2,Balanced Hitters,2,Aggressive Fastball
+2022,571657,"Farmer, Kyle",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,571970,"Muncy, Max",2,Balanced Hitters,0,Selective / Moderate
+2022,572041,"Pollock, AJ",2,Balanced Hitters,0,Selective / Moderate
+2022,572228,"Voit, Luke",1,Power Hitters,0,Selective / Moderate
+2022,572233,"Walker, Christian",2,Balanced Hitters,2,Aggressive Fastball
+2022,573262,"Yastrzemski, Mike",2,Balanced Hitters,2,Aggressive Fastball
+2022,592192,"Canha, Mark",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,592206,"Castellanos, Nick",2,Balanced Hitters,0,Selective / Moderate
+2022,592273,"Drury, Brandon",2,Balanced Hitters,2,Aggressive Fastball
+2022,592450,"Judge, Aaron",1,Power Hitters,0,Selective / Moderate
+2022,592518,"Machado, Manny",1,Power Hitters,2,Aggressive Fastball
+2022,592663,"Realmuto, J.T.",2,Balanced Hitters,2,Aggressive Fastball
+2022,592669,"Renfroe, Hunter",2,Balanced Hitters,0,Selective / Moderate
+2022,592885,"Yelich, Christian",1,Power Hitters,2,Aggressive Fastball
+2022,593160,"Merrifield, Whit",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,593428,"Bogaerts, Xander",2,Balanced Hitters,0,Selective / Moderate
+2022,595777,"Profar, Jurickson",0,Hitters With Good Contact,0,Selective / Moderate
+2022,595879,"Báez, Javier",2,Balanced Hitters,0,Selective / Moderate
+2022,596019,"Lindor, Francisco",2,Balanced Hitters,0,Selective / Moderate
+2022,605137,"Bell, Josh",2,Balanced Hitters,0,Selective / Moderate
+2022,605141,"Betts, Mookie",2,Balanced Hitters,2,Aggressive Fastball
+2022,606192,"Hernández, Teoscar",1,Power Hitters,2,Aggressive Fastball
+2022,606466,"Marte, Ketel",2,Balanced Hitters,0,Selective / Moderate
+2022,607043,"Nimmo, Brandon",2,Balanced Hitters,2,Aggressive Fastball
+2022,607208,"Turner, Trea",2,Balanced Hitters,0,Selective / Moderate
+2022,608070,"Ramírez, José",2,Balanced Hitters,0,Selective / Moderate
+2022,608324,"Bregman, Alex",2,Balanced Hitters,0,Selective / Moderate
+2022,608369,"Seager, Corey",1,Power Hitters,0,Selective / Moderate
+2022,608385,"Winker, Jesse",2,Balanced Hitters,2,Aggressive Fastball
+2022,621020,"Swanson, Dansby",2,Balanced Hitters,0,Selective / Moderate
+2022,621043,"Correa, Carlos",1,Power Hitters,2,Aggressive Fastball
+2022,621493,"Ward, Taylor",2,Balanced Hitters,2,Aggressive Fastball
+2022,621550,"Wisdom, Patrick",1,Power Hitters,2,Aggressive Fastball
+2022,621566,"Olson, Matt",1,Power Hitters,0,Selective / Moderate
+2022,622761,"Mateo, Jorge",2,Balanced Hitters,0,Selective / Moderate
+2022,623993,"Santander, Anthony",2,Balanced Hitters,0,Selective / Moderate
+2022,624413,"Alonso, Pete",1,Power Hitters,2,Aggressive Fastball
+2022,624428,"Frazier, Adam",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,630105,"Cronenworth, Jake",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,641355,"Bellinger, Cody",2,Balanced Hitters,0,Selective / Moderate
+2022,641487,"Crawford, J.P.",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,641820,"Mancini, Trey",2,Balanced Hitters,0,Selective / Moderate
+2022,641857,"McMahon, Ryan",1,Power Hitters,2,Aggressive Fastball
+2022,642133,"Tellez, Rowdy",1,Power Hitters,0,Selective / Moderate
+2022,642708,"Rosario, Amed",2,Balanced Hitters,2,Aggressive Fastball
+2022,642715,"Adames, Willy",2,Balanced Hitters,0,Selective / Moderate
+2022,642731,"Estrada, Thairo",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,643217,"Benintendi, Andrew",2,Balanced Hitters,2,Aggressive Fastball
+2022,643393,"Kemp, Tony",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,643396,"Kiner-Falefa, Isiah",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,643446,"McNeil, Jeff",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,646240,"Devers, Rafael",1,Power Hitters,0,Selective / Moderate
+2022,650333,"Arraez, Luis",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,650402,"Torres, Gleyber",2,Balanced Hitters,0,Selective / Moderate
+2022,650490,"Díaz, Yandy",2,Balanced Hitters,2,Aggressive Fastball
+2022,650859,"Rengifo, Luis",0,Hitters With Good Contact,0,Selective / Moderate
+2022,656305,"Chapman, Matt",1,Power Hitters,2,Aggressive Fastball
+2022,656555,"Hoskins, Rhys",2,Balanced Hitters,2,Aggressive Fastball
+2022,656775,"Mullins, Cedric",0,Hitters With Good Contact,0,Selective / Moderate
+2022,656941,"Schwarber, Kyle",1,Power Hitters,0,Selective / Moderate
+2022,657041,"Thomas, Lane",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,657077,"Verdugo, Alex",2,Balanced Hitters,0,Selective / Moderate
+2022,660271,"Ohtani, Shohei",1,Power Hitters,0,Selective / Moderate
+2022,660670,"Acuña Jr., Ronald",1,Power Hitters,2,Aggressive Fastball
+2022,662139,"Varsho, Daulton",2,Balanced Hitters,0,Selective / Moderate
+2022,663538,"Hoerner, Nico",0,Hitters With Good Contact,0,Selective / Moderate
+2022,663586,"Riley, Austin",1,Power Hitters,2,Aggressive Fastball
+2022,663624,"Mountcastle, Ryan",1,Power Hitters,0,Selective / Moderate
+2022,663647,"Hayes, Ke'Bryan",2,Balanced Hitters,2,Aggressive Fastball
+2022,663656,"Tucker, Kyle",2,Balanced Hitters,0,Selective / Moderate
+2022,663757,"Grisham, Trent",2,Balanced Hitters,2,Aggressive Fastball
+2022,663898,"Rodgers, Brendan",2,Balanced Hitters,2,Aggressive Fastball
+2022,663993,"Lowe, Nathaniel",2,Balanced Hitters,2,Aggressive Fastball
+2022,664023,"Happ, Ian",2,Balanced Hitters,0,Selective / Moderate
+2022,664034,"France, Ty",2,Balanced Hitters,2,Aggressive Fastball
+2022,664702,"Straw, Myles",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,664761,"Bohm, Alec",2,Balanced Hitters,2,Aggressive Fastball
+2022,664913,"Brown, Seth",1,Power Hitters,0,Selective / Moderate
+2022,665161,"Peña, Jeremy",2,Balanced Hitters,0,Selective / Moderate
+2022,665489,"Guerrero Jr., Vladimir",1,Power Hitters,0,Selective / Moderate
+2022,665742,"Soto, Juan",1,Power Hitters,0,Selective / Moderate
+2022,665926,"Giménez, Andrés",2,Balanced Hitters,0,Selective / Moderate
+2022,666182,"Bichette, Bo",1,Power Hitters,2,Aggressive Fastball
+2022,666969,"García, Adolis",1,Power Hitters,2,Aggressive Fastball
+2022,668227,"Arozarena, Randy",2,Balanced Hitters,0,Selective / Moderate
+2022,668804,"Reynolds, Bryan",2,Balanced Hitters,0,Selective / Moderate
+2022,668942,"Rojas, Josh",0,Hitters With Good Contact,0,Selective / Moderate
+2022,669004,"Melendez, MJ",2,Balanced Hitters,0,Selective / Moderate
+2022,669221,"Murphy, Sean",2,Balanced Hitters,0,Selective / Moderate
+2022,669242,"Edman, Tommy",2,Balanced Hitters,0,Selective / Moderate
+2022,669257,"Smith, Will",2,Balanced Hitters,2,Aggressive Fastball
+2022,669720,"Hays, Austin",2,Balanced Hitters,2,Aggressive Fastball
+2022,670541,"Alvarez, Yordan",1,Power Hitters,0,Selective / Moderate
+2022,672386,"Kirk, Alejandro",2,Balanced Hitters,2,Aggressive Fastball
+2022,673490,"Kim, Ha-Seong",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,677594,"Rodríguez, Julio",1,Power Hitters,0,Selective / Moderate
+2022,677951,"Witt Jr., Bobby",2,Balanced Hitters,2,Aggressive Fastball
+2022,680757,"Kwan, Steven",0,Hitters With Good Contact,2,Aggressive Fastball
+2022,683734,"Vaughn, Andrew",2,Balanced Hitters,0,Selective / Moderate
+2023,457759,"Turner, Justin",2,Balanced Hitters,2,Aggressive Fastball
+2023,467793,"Santana, Carlos",2,Balanced Hitters,0,Selective / Moderate
+2023,502671,"Goldschmidt, Paul",1,Power Hitters,2,Aggressive Fastball
+2023,518692,"Freeman, Freddie",2,Balanced Hitters,0,Selective / Moderate
+2023,518934,"LeMahieu, DJ",2,Balanced Hitters,2,Aggressive Fastball
+2023,521692,"Perez, Salvador",2,Balanced Hitters,0,Selective / Moderate
+2023,542303,"Ozuna, Marcell",1,Power Hitters,0,Selective / Moderate
+2023,543760,"Semien, Marcus",2,Balanced Hitters,0,Selective / Moderate
+2023,543807,"Springer, George",2,Balanced Hitters,0,Selective / Moderate
+2023,547180,"Harper, Bryce",1,Power Hitters,0,Selective / Moderate
+2023,547989,"Abreu, José",2,Balanced Hitters,2,Aggressive Fastball
+2023,553869,"Díaz, Elias",2,Balanced Hitters,0,Selective / Moderate
+2023,553993,"Suárez, Eugenio",1,Power Hitters,0,Selective / Moderate
+2023,571448,"Arenado, Nolan",2,Balanced Hitters,0,Selective / Moderate
+2023,571771,"Hernández, Enrique",0,Hitters With Good Contact,0,Selective / Moderate
+2023,571970,"Muncy, Max",1,Power Hitters,0,Selective / Moderate
+2023,572233,"Walker, Christian",2,Balanced Hitters,0,Selective / Moderate
+2023,592192,"Canha, Mark",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,592206,"Castellanos, Nick",2,Balanced Hitters,0,Selective / Moderate
+2023,592273,"Drury, Brandon",1,Power Hitters,2,Aggressive Fastball
+2023,592518,"Machado, Manny",1,Power Hitters,2,Aggressive Fastball
+2023,592663,"Realmuto, J.T.",2,Balanced Hitters,0,Selective / Moderate
+2023,592669,"Renfroe, Hunter",2,Balanced Hitters,0,Selective / Moderate
+2023,592696,"Rosario, Eddie",2,Balanced Hitters,0,Selective / Moderate
+2023,592885,"Yelich, Christian",1,Power Hitters,0,Selective / Moderate
+2023,593160,"Merrifield, Whit",0,Hitters With Good Contact,0,Selective / Moderate
+2023,593428,"Bogaerts, Xander",0,Hitters With Good Contact,0,Selective / Moderate
+2023,595777,"Profar, Jurickson",0,Hitters With Good Contact,0,Selective / Moderate
+2023,595879,"Báez, Javier",2,Balanced Hitters,0,Selective / Moderate
+2023,596019,"Lindor, Francisco",2,Balanced Hitters,0,Selective / Moderate
+2023,600869,"Candelario, Jeimer",2,Balanced Hitters,0,Selective / Moderate
+2023,605137,"Bell, Josh",2,Balanced Hitters,0,Selective / Moderate
+2023,605141,"Betts, Mookie",1,Power Hitters,2,Aggressive Fastball
+2023,605204,"Davis, J.D.",2,Balanced Hitters,2,Aggressive Fastball
+2023,606115,"Arcia, Orlando",2,Balanced Hitters,2,Aggressive Fastball
+2023,606192,"Hernández, Teoscar",1,Power Hitters,0,Selective / Moderate
+2023,606466,"Marte, Ketel",2,Balanced Hitters,0,Selective / Moderate
+2023,607043,"Nimmo, Brandon",2,Balanced Hitters,2,Aggressive Fastball
+2023,607208,"Turner, Trea",2,Balanced Hitters,0,Selective / Moderate
+2023,608070,"Ramírez, José",2,Balanced Hitters,0,Selective / Moderate
+2023,608324,"Bregman, Alex",0,Hitters With Good Contact,0,Selective / Moderate
+2023,608369,"Seager, Corey",1,Power Hitters,0,Selective / Moderate
+2023,608841,"Meneses, Joey",2,Balanced Hitters,0,Selective / Moderate
+2023,621020,"Swanson, Dansby",2,Balanced Hitters,0,Selective / Moderate
+2023,621043,"Correa, Carlos",1,Power Hitters,0,Selective / Moderate
+2023,621566,"Olson, Matt",1,Power Hitters,0,Selective / Moderate
+2023,623993,"Santander, Anthony",2,Balanced Hitters,0,Selective / Moderate
+2023,624413,"Alonso, Pete",1,Power Hitters,0,Selective / Moderate
+2023,624585,"Soler, Jorge",1,Power Hitters,2,Aggressive Fastball
+2023,630105,"Cronenworth, Jake",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,641313,"Anderson, Tim",0,Hitters With Good Contact,0,Selective / Moderate
+2023,641355,"Bellinger, Cody",0,Hitters With Good Contact,0,Selective / Moderate
+2023,641487,"Crawford, J.P.",2,Balanced Hitters,0,Selective / Moderate
+2023,641857,"McMahon, Ryan",1,Power Hitters,0,Selective / Moderate
+2023,642086,"Smith, Dominic",0,Hitters With Good Contact,0,Selective / Moderate
+2023,642708,"Rosario, Amed",2,Balanced Hitters,2,Aggressive Fastball
+2023,642715,"Adames, Willy",2,Balanced Hitters,0,Selective / Moderate
+2023,642731,"Estrada, Thairo",0,Hitters With Good Contact,0,Selective / Moderate
+2023,643217,"Benintendi, Andrew",0,Hitters With Good Contact,0,Selective / Moderate
+2023,643446,"McNeil, Jeff",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,645277,"Albies, Ozzie",2,Balanced Hitters,0,Selective / Moderate
+2023,646240,"Devers, Rafael",1,Power Hitters,0,Selective / Moderate
+2023,650333,"Arraez, Luis",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,650402,"Torres, Gleyber",2,Balanced Hitters,0,Selective / Moderate
+2023,650490,"Díaz, Yandy",1,Power Hitters,0,Selective / Moderate
+2023,650559,"De La Cruz, Bryan",2,Balanced Hitters,2,Aggressive Fastball
+2023,656305,"Chapman, Matt",1,Power Hitters,2,Aggressive Fastball
+2023,656716,"McKinstry, Zach",0,Hitters With Good Contact,0,Selective / Moderate
+2023,656941,"Schwarber, Kyle",1,Power Hitters,0,Selective / Moderate
+2023,657041,"Thomas, Lane",2,Balanced Hitters,2,Aggressive Fastball
+2023,657077,"Verdugo, Alex",2,Balanced Hitters,0,Selective / Moderate
+2023,660271,"Ohtani, Shohei",1,Power Hitters,0,Selective / Moderate
+2023,660670,"Acuña Jr., Ronald",1,Power Hitters,2,Aggressive Fastball
+2023,660688,"Ruiz, Keibert",0,Hitters With Good Contact,0,Selective / Moderate
+2023,661388,"Contreras, William",1,Power Hitters,0,Selective / Moderate
+2023,662139,"Varsho, Daulton",2,Balanced Hitters,0,Selective / Moderate
+2023,663457,"Nootbaar, Lars",2,Balanced Hitters,0,Selective / Moderate
+2023,663538,"Hoerner, Nico",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,663586,"Riley, Austin",1,Power Hitters,0,Selective / Moderate
+2023,663647,"Hayes, Ke'Bryan",2,Balanced Hitters,0,Selective / Moderate
+2023,663656,"Tucker, Kyle",2,Balanced Hitters,0,Selective / Moderate
+2023,663697,"India, Jonathan",2,Balanced Hitters,0,Selective / Moderate
+2023,663728,"Raleigh, Cal",2,Balanced Hitters,0,Selective / Moderate
+2023,663757,"Grisham, Trent",2,Balanced Hitters,0,Selective / Moderate
+2023,663837,"Vierling, Matt",2,Balanced Hitters,2,Aggressive Fastball
+2023,663886,"Stephenson, Tyler",2,Balanced Hitters,0,Selective / Moderate
+2023,663993,"Lowe, Nathaniel",2,Balanced Hitters,2,Aggressive Fastball
+2023,664023,"Happ, Ian",2,Balanced Hitters,0,Selective / Moderate
+2023,664034,"France, Ty",2,Balanced Hitters,0,Selective / Moderate
+2023,664702,"Straw, Myles",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,664761,"Bohm, Alec",2,Balanced Hitters,2,Aggressive Fastball
+2023,664774,"Wade Jr., LaMonte",2,Balanced Hitters,0,Selective / Moderate
+2023,665161,"Peña, Jeremy",0,Hitters With Good Contact,0,Selective / Moderate
+2023,665487,"Tatis Jr., Fernando",1,Power Hitters,0,Selective / Moderate
+2023,665489,"Guerrero Jr., Vladimir",1,Power Hitters,0,Selective / Moderate
+2023,665742,"Soto, Juan",1,Power Hitters,0,Selective / Moderate
+2023,665750,"Taveras, Leody",2,Balanced Hitters,0,Selective / Moderate
+2023,665926,"Giménez, Andrés",0,Hitters With Good Contact,0,Selective / Moderate
+2023,666182,"Bichette, Bo",2,Balanced Hitters,2,Aggressive Fastball
+2023,666969,"García, Adolis",1,Power Hitters,0,Selective / Moderate
+2023,666971,"Gurriel Jr., Lourdes",2,Balanced Hitters,0,Selective / Moderate
+2023,667670,"Rooker, Brent",1,Power Hitters,0,Selective / Moderate
+2023,668227,"Arozarena, Randy",1,Power Hitters,0,Selective / Moderate
+2023,668715,"Steer, Spencer",2,Balanced Hitters,2,Aggressive Fastball
+2023,668804,"Reynolds, Bryan",2,Balanced Hitters,0,Selective / Moderate
+2023,668939,"Rutschman, Adley",2,Balanced Hitters,0,Selective / Moderate
+2023,669004,"Melendez, MJ",1,Power Hitters,0,Selective / Moderate
+2023,669242,"Edman, Tommy",2,Balanced Hitters,0,Selective / Moderate
+2023,669257,"Smith, Will",2,Balanced Hitters,2,Aggressive Fastball
+2023,669261,"Suwinski, Jack",1,Power Hitters,0,Selective / Moderate
+2023,669394,"Burger, Jake",1,Power Hitters,0,Selective / Moderate
+2023,669720,"Hays, Austin",2,Balanced Hitters,0,Selective / Moderate
+2023,670623,"Paredes, Isaac",0,Hitters With Good Contact,0,Selective / Moderate
+2023,670770,"Friedl, TJ",0,Hitters With Good Contact,0,Selective / Moderate
+2023,671213,"Casas, Triston",1,Power Hitters,0,Selective / Moderate
+2023,671739,"Harris II, Michael",1,Power Hitters,0,Selective / Moderate
+2023,672580,"Garcia, Maikel",2,Balanced Hitters,2,Aggressive Fastball
+2023,673357,"Robert Jr., Luis",1,Power Hitters,0,Selective / Moderate
+2023,673490,"Kim, Ha-Seong",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,673548,"Suzuki, Seiya",1,Power Hitters,0,Selective / Moderate
+2023,673962,"Jung, Josh",1,Power Hitters,0,Selective / Moderate
+2023,677594,"Rodríguez, Julio",1,Power Hitters,0,Selective / Moderate
+2023,677951,"Witt Jr., Bobby",1,Power Hitters,0,Selective / Moderate
+2023,678662,"Tovar, Ezequiel",2,Balanced Hitters,0,Selective / Moderate
+2023,679529,"Torkelson, Spencer",1,Power Hitters,0,Selective / Moderate
+2023,680757,"Kwan, Steven",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,681082,"Stott, Bryson",0,Hitters With Good Contact,2,Aggressive Fastball
+2023,681546,"Outman, James",2,Balanced Hitters,0,Selective / Moderate
+2023,682928,"Abrams, CJ",2,Balanced Hitters,0,Selective / Moderate
+2023,682998,"Carroll, Corbin",2,Balanced Hitters,0,Selective / Moderate
+2023,683002,"Henderson, Gunnar",1,Power Hitters,0,Selective / Moderate
+2023,683011,"Volpe, Anthony",2,Balanced Hitters,0,Selective / Moderate
+2023,683734,"Vaughn, Andrew",2,Balanced Hitters,0,Selective / Moderate
+2023,807799,"Yoshida, Masataka",2,Balanced Hitters,0,Selective / Moderate
+2024,457705,"McCutchen, Andrew",2,Balanced Hitters,0,Selective / Moderate
+2024,457759,"Turner, Justin",0,Hitters With Good Contact,2,Aggressive Fastball
+2024,467793,"Santana, Carlos",2,Balanced Hitters,0,Selective / Moderate
+2024,502671,"Goldschmidt, Paul",1,Power Hitters,0,Selective / Moderate
+2024,514888,"Altuve, Jose",0,Hitters With Good Contact,0,Selective / Moderate
+2024,518692,"Freeman, Freddie",2,Balanced Hitters,0,Selective / Moderate
+2024,521692,"Perez, Salvador",1,Power Hitters,0,Selective / Moderate
+2024,542303,"Ozuna, Marcell",1,Power Hitters,0,Selective / Moderate
+2024,543760,"Semien, Marcus",0,Hitters With Good Contact,0,Selective / Moderate
+2024,543807,"Springer, George",2,Balanced Hitters,0,Selective / Moderate
+2024,547180,"Harper, Bryce",1,Power Hitters,0,Selective / Moderate
+2024,553993,"Suárez, Eugenio",2,Balanced Hitters,0,Selective / Moderate
+2024,571448,"Arenado, Nolan",0,Hitters With Good Contact,0,Selective / Moderate
+2024,572233,"Walker, Christian",1,Power Hitters,0,Selective / Moderate
+2024,592206,"Castellanos, Nick",2,Balanced Hitters,0,Selective / Moderate
+2024,592450,"Judge, Aaron",1,Power Hitters,0,Selective / Moderate
+2024,592518,"Machado, Manny",1,Power Hitters,2,Aggressive Fastball
+2024,595777,"Profar, Jurickson",2,Balanced Hitters,0,Selective / Moderate
+2024,596019,"Lindor, Francisco",1,Power Hitters,0,Selective / Moderate
+2024,605137,"Bell, Josh",2,Balanced Hitters,0,Selective / Moderate
+2024,605141,"Betts, Mookie",2,Balanced Hitters,0,Selective / Moderate
+2024,606115,"Arcia, Orlando",0,Hitters With Good Contact,0,Selective / Moderate
+2024,606192,"Hernández, Teoscar",1,Power Hitters,0,Selective / Moderate
+2024,606466,"Marte, Ketel",1,Power Hitters,0,Selective / Moderate
+2024,607043,"Nimmo, Brandon",2,Balanced Hitters,2,Aggressive Fastball
+2024,607208,"Turner, Trea",2,Balanced Hitters,0,Selective / Moderate
+2024,608070,"Ramírez, José",2,Balanced Hitters,0,Selective / Moderate
+2024,608324,"Bregman, Alex",2,Balanced Hitters,0,Selective / Moderate
+2024,608369,"Seager, Corey",1,Power Hitters,0,Selective / Moderate
+2024,608385,"Winker, Jesse",2,Balanced Hitters,0,Selective / Moderate
+2024,621020,"Swanson, Dansby",2,Balanced Hitters,0,Selective / Moderate
+2024,621493,"Ward, Taylor",2,Balanced Hitters,2,Aggressive Fastball
+2024,621566,"Olson, Matt",1,Power Hitters,0,Selective / Moderate
+2024,623993,"Santander, Anthony",2,Balanced Hitters,0,Selective / Moderate
+2024,624413,"Alonso, Pete",1,Power Hitters,2,Aggressive Fastball
+2024,624585,"Soler, Jorge",1,Power Hitters,0,Selective / Moderate
+2024,630105,"Cronenworth, Jake",2,Balanced Hitters,2,Aggressive Fastball
+2024,641355,"Bellinger, Cody",0,Hitters With Good Contact,0,Selective / Moderate
+2024,641857,"McMahon, Ryan",1,Power Hitters,2,Aggressive Fastball
+2024,642715,"Adames, Willy",2,Balanced Hitters,2,Aggressive Fastball
+2024,643217,"Benintendi, Andrew",0,Hitters With Good Contact,0,Selective / Moderate
+2024,646240,"Devers, Rafael",1,Power Hitters,2,Aggressive Fastball
+2024,647304,"Naylor, Josh",2,Balanced Hitters,0,Selective / Moderate
+2024,650333,"Arraez, Luis",0,Hitters With Good Contact,2,Aggressive Fastball
+2024,650402,"Torres, Gleyber",2,Balanced Hitters,0,Selective / Moderate
+2024,650489,"Castro, Willi",2,Balanced Hitters,0,Selective / Moderate
+2024,650490,"Díaz, Yandy",1,Power Hitters,2,Aggressive Fastball
+2024,650559,"De La Cruz, Bryan",2,Balanced Hitters,0,Selective / Moderate
+2024,656305,"Chapman, Matt",1,Power Hitters,0,Selective / Moderate
+2024,656555,"Hoskins, Rhys",2,Balanced Hitters,2,Aggressive Fastball
+2024,656941,"Schwarber, Kyle",1,Power Hitters,0,Selective / Moderate
+2024,657041,"Thomas, Lane",2,Balanced Hitters,0,Selective / Moderate
+2024,657077,"Verdugo, Alex",0,Hitters With Good Contact,0,Selective / Moderate
+2024,660271,"Ohtani, Shohei",1,Power Hitters,0,Selective / Moderate
+2024,660821,"Sánchez, Jesús",1,Power Hitters,0,Selective / Moderate
+2024,661388,"Contreras, William",1,Power Hitters,0,Selective / Moderate
+2024,662139,"Varsho, Daulton",0,Hitters With Good Contact,0,Selective / Moderate
+2024,663538,"Hoerner, Nico",0,Hitters With Good Contact,0,Selective / Moderate
+2024,663624,"Mountcastle, Ryan",2,Balanced Hitters,0,Selective / Moderate
+2024,663697,"India, Jonathan",2,Balanced Hitters,2,Aggressive Fastball
+2024,663728,"Raleigh, Cal",1,Power Hitters,0,Selective / Moderate
+2024,663837,"Vierling, Matt",2,Balanced Hitters,0,Selective / Moderate
+2024,663886,"Stephenson, Tyler",2,Balanced Hitters,0,Selective / Moderate
+2024,663898,"Rodgers, Brendan",2,Balanced Hitters,0,Selective / Moderate
+2024,663993,"Lowe, Nathaniel",2,Balanced Hitters,2,Aggressive Fastball
+2024,664023,"Happ, Ian",1,Power Hitters,0,Selective / Moderate
+2024,664034,"France, Ty",2,Balanced Hitters,0,Selective / Moderate
+2024,664761,"Bohm, Alec",2,Balanced Hitters,0,Selective / Moderate
+2024,665161,"Peña, Jeremy",2,Balanced Hitters,0,Selective / Moderate
+2024,665489,"Guerrero Jr., Vladimir",1,Power Hitters,0,Selective / Moderate
+2024,665742,"Soto, Juan",1,Power Hitters,0,Selective / Moderate
+2024,665750,"Taveras, Leody",2,Balanced Hitters,0,Selective / Moderate
+2024,665833,"Cruz, Oneil",1,Power Hitters,0,Selective / Moderate
+2024,665862,"Chisholm Jr., Jazz",2,Balanced Hitters,0,Selective / Moderate
+2024,665926,"Giménez, Andrés",0,Hitters With Good Contact,0,Selective / Moderate
+2024,666624,"Morel, Christopher",2,Balanced Hitters,0,Selective / Moderate
+2024,666969,"García, Adolis",1,Power Hitters,0,Selective / Moderate
+2024,666971,"Gurriel Jr., Lourdes",2,Balanced Hitters,0,Selective / Moderate
+2024,667670,"Rooker, Brent",1,Power Hitters,0,Selective / Moderate
+2024,668227,"Arozarena, Randy",2,Balanced Hitters,0,Selective / Moderate
+2024,668709,"Bleday, JJ",2,Balanced Hitters,0,Selective / Moderate
+2024,668715,"Steer, Spencer",2,Balanced Hitters,2,Aggressive Fastball
+2024,668804,"Reynolds, Bryan",2,Balanced Hitters,0,Selective / Moderate
+2024,668930,"Turang, Brice",0,Hitters With Good Contact,0,Selective / Moderate
+2024,668939,"Rutschman, Adley",0,Hitters With Good Contact,0,Selective / Moderate
+2024,669127,"Langeliers, Shea",1,Power Hitters,0,Selective / Moderate
+2024,669257,"Smith, Will",2,Balanced Hitters,2,Aggressive Fastball
+2024,669394,"Burger, Jake",1,Power Hitters,0,Selective / Moderate
+2024,669701,"Smith, Josh",0,Hitters With Good Contact,0,Selective / Moderate
+2024,670541,"Alvarez, Yordan",1,Power Hitters,0,Selective / Moderate
+2024,670623,"Paredes, Isaac",0,Hitters With Good Contact,0,Selective / Moderate
+2024,671218,"Ramos, Heliot",1,Power Hitters,2,Aggressive Fastball
+2024,671277,"García Jr., Luis",2,Balanced Hitters,0,Selective / Moderate
+2024,672580,"Garcia, Maikel",2,Balanced Hitters,2,Aggressive Fastball
+2024,673237,"Diaz, Yainer",2,Balanced Hitters,0,Selective / Moderate
+2024,673548,"Suzuki, Seiya",1,Power Hitters,0,Selective / Moderate
+2024,676475,"Burleson, Alec",2,Balanced Hitters,0,Selective / Moderate
+2024,676694,"Meyers, Jake",2,Balanced Hitters,0,Selective / Moderate
+2024,677594,"Rodríguez, Julio",1,Power Hitters,0,Selective / Moderate
+2024,677951,"Witt Jr., Bobby",1,Power Hitters,0,Selective / Moderate
+2024,678662,"Tovar, Ezequiel",2,Balanced Hitters,0,Selective / Moderate
+2024,678882,"Rafaela, Ceddanne",2,Balanced Hitters,0,Selective / Moderate
+2024,680757,"Kwan, Steven",0,Hitters With Good Contact,0,Selective / Moderate
+2024,680776,"Duran, Jarren",2,Balanced Hitters,0,Selective / Moderate
+2024,680869,"Gelof, Zack",2,Balanced Hitters,0,Selective / Moderate
+2024,680977,"Donovan, Brendan",2,Balanced Hitters,0,Selective / Moderate
+2024,681082,"Stott, Bryson",0,Hitters With Good Contact,0,Selective / Moderate
+2024,681297,"Cowser, Colton",1,Power Hitters,0,Selective / Moderate
+2024,681351,"O'Hoppe, Logan",1,Power Hitters,0,Selective / Moderate
+2024,682829,"De La Cruz, Elly",1,Power Hitters,0,Selective / Moderate
+2024,682928,"Abrams, CJ",2,Balanced Hitters,0,Selective / Moderate
+2024,682985,"Greene, Riley",1,Power Hitters,0,Selective / Moderate
+2024,682998,"Carroll, Corbin",2,Balanced Hitters,0,Selective / Moderate
+2024,683002,"Henderson, Gunnar",1,Power Hitters,0,Selective / Moderate
+2024,683011,"Volpe, Anthony",0,Hitters With Good Contact,0,Selective / Moderate
+2024,683734,"Vaughn, Andrew",2,Balanced Hitters,0,Selective / Moderate
+2024,683737,"Busch, Michael",2,Balanced Hitters,0,Selective / Moderate
+2024,686217,"Frelick, Sal",0,Hitters With Good Contact,0,Selective / Moderate
+2024,686469,"Pasquantino, Vinnie",2,Balanced Hitters,0,Selective / Moderate
+2024,686668,"Doyle, Brenton",2,Balanced Hitters,2,Aggressive Fastball
+2024,687263,"Neto, Zach",2,Balanced Hitters,0,Selective / Moderate
+2024,687401,"Ortiz, Joey",0,Hitters With Good Contact,2,Aggressive Fastball
+2024,690993,"Keith, Colt",0,Hitters With Good Contact,0,Selective / Moderate
+2024,691026,"Winn, Masyn",0,Hitters With Good Contact,0,Selective / Moderate
+2024,694192,"Chourio, Jackson",2,Balanced Hitters,0,Selective / Moderate
+2024,694384,"Schanuel, Nolan",0,Hitters With Good Contact,0,Selective / Moderate
+2024,694671,"Langford, Wyatt",2,Balanced Hitters,0,Selective / Moderate
+2024,696285,"Young, Jacob",0,Hitters With Good Contact,0,Selective / Moderate
+2024,701538,"Merrill, Jackson",2,Balanced Hitters,0,Selective / Moderate
+2025,457705,"McCutchen, Andrew",2,Balanced Hitters,0,Selective / Moderate
+2025,502671,"Goldschmidt, Paul",2,Balanced Hitters,0,Selective / Moderate
+2025,514888,"Altuve, Jose",0,Hitters With Good Contact,0,Selective / Moderate
+2025,518692,"Freeman, Freddie",2,Balanced Hitters,0,Selective / Moderate
+2025,521692,"Perez, Salvador",1,Power Hitters,0,Selective / Moderate
+2025,542303,"Ozuna, Marcell",2,Balanced Hitters,0,Selective / Moderate
+2025,543760,"Semien, Marcus",2,Balanced Hitters,0,Selective / Moderate
+2025,543807,"Springer, George",1,Power Hitters,0,Selective / Moderate
+2025,545361,"Trout, Mike",1,Power Hitters,2,Aggressive Fastball
+2025,547180,"Harper, Bryce",1,Power Hitters,0,Selective / Moderate
+2025,553993,"Suárez, Eugenio",1,Power Hitters,0,Selective / Moderate
+2025,572233,"Walker, Christian",1,Power Hitters,2,Aggressive Fastball
+2025,573262,"Yastrzemski, Mike",2,Balanced Hitters,0,Selective / Moderate
+2025,575929,"Contreras, Willson",1,Power Hitters,0,Selective / Moderate
+2025,592206,"Castellanos, Nick",2,Balanced Hitters,0,Selective / Moderate
+2025,592450,"Judge, Aaron",1,Power Hitters,0,Selective / Moderate
+2025,592518,"Machado, Manny",1,Power Hitters,0,Selective / Moderate
+2025,592663,"Realmuto, J.T.",2,Balanced Hitters,0,Selective / Moderate
+2025,592885,"Yelich, Christian",1,Power Hitters,0,Selective / Moderate
+2025,593428,"Bogaerts, Xander",2,Balanced Hitters,0,Selective / Moderate
+2025,593871,"Polanco, Jorge",2,Balanced Hitters,0,Selective / Moderate
+2025,596019,"Lindor, Francisco",2,Balanced Hitters,0,Selective / Moderate
+2025,596115,"Story, Trevor",1,Power Hitters,0,Selective / Moderate
+2025,605137,"Bell, Josh",1,Power Hitters,0,Selective / Moderate
+2025,605141,"Betts, Mookie",0,Hitters With Good Contact,0,Selective / Moderate
+2025,606192,"Hernández, Teoscar",1,Power Hitters,0,Selective / Moderate
+2025,606466,"Marte, Ketel",1,Power Hitters,0,Selective / Moderate
+2025,607043,"Nimmo, Brandon",1,Power Hitters,2,Aggressive Fastball
+2025,607208,"Turner, Trea",2,Balanced Hitters,0,Selective / Moderate
+2025,608070,"Ramírez, José",2,Balanced Hitters,0,Selective / Moderate
+2025,621020,"Swanson, Dansby",1,Power Hitters,0,Selective / Moderate
+2025,621043,"Correa, Carlos",2,Balanced Hitters,0,Selective / Moderate
+2025,621439,"Buxton, Byron",1,Power Hitters,0,Selective / Moderate
+2025,621493,"Ward, Taylor",1,Power Hitters,0,Selective / Moderate
+2025,621566,"Olson, Matt",1,Power Hitters,0,Selective / Moderate
+2025,624413,"Alonso, Pete",1,Power Hitters,0,Selective / Moderate
+2025,630105,"Cronenworth, Jake",2,Balanced Hitters,0,Selective / Moderate
+2025,641355,"Bellinger, Cody",2,Balanced Hitters,0,Selective / Moderate
+2025,641487,"Crawford, J.P.",0,Hitters With Good Contact,0,Selective / Moderate
+2025,641857,"McMahon, Ryan",1,Power Hitters,0,Selective / Moderate
+2025,642715,"Adames, Willy",2,Balanced Hitters,0,Selective / Moderate
+2025,645277,"Albies, Ozzie",0,Hitters With Good Contact,0,Selective / Moderate
+2025,646240,"Devers, Rafael",1,Power Hitters,0,Selective / Moderate
+2025,647304,"Naylor, Josh",2,Balanced Hitters,0,Selective / Moderate
+2025,650333,"Arraez, Luis",0,Hitters With Good Contact,2,Aggressive Fastball
+2025,650402,"Torres, Gleyber",2,Balanced Hitters,0,Selective / Moderate
+2025,650490,"Díaz, Yandy",1,Power Hitters,0,Selective / Moderate
+2025,650859,"Rengifo, Luis",0,Hitters With Good Contact,0,Selective / Moderate
+2025,656305,"Chapman, Matt",1,Power Hitters,2,Aggressive Fastball
+2025,656716,"McKinstry, Zach",0,Hitters With Good Contact,0,Selective / Moderate
+2025,656811,"O'Hearn, Ryan",2,Balanced Hitters,0,Selective / Moderate
+2025,656941,"Schwarber, Kyle",1,Power Hitters,0,Selective / Moderate
+2025,657757,"Sheets, Gavin",2,Balanced Hitters,0,Selective / Moderate
+2025,660271,"Ohtani, Shohei",1,Power Hitters,0,Selective / Moderate
+2025,661388,"Contreras, William",2,Balanced Hitters,0,Selective / Moderate
+2025,663457,"Nootbaar, Lars",1,Power Hitters,0,Selective / Moderate
+2025,663538,"Hoerner, Nico",0,Hitters With Good Contact,2,Aggressive Fastball
+2025,663616,"Larnach, Trevor",2,Balanced Hitters,0,Selective / Moderate
+2025,663647,"Hayes, Ke'Bryan",2,Balanced Hitters,0,Selective / Moderate
+2025,663656,"Tucker, Kyle",2,Balanced Hitters,0,Selective / Moderate
+2025,663697,"India, Jonathan",2,Balanced Hitters,2,Aggressive Fastball
+2025,663728,"Raleigh, Cal",1,Power Hitters,0,Selective / Moderate
+2025,663757,"Grisham, Trent",1,Power Hitters,0,Selective / Moderate
+2025,663993,"Lowe, Nathaniel",2,Balanced Hitters,0,Selective / Moderate
+2025,664023,"Happ, Ian",2,Balanced Hitters,0,Selective / Moderate
+2025,664040,"Lowe, Brandon",1,Power Hitters,0,Selective / Moderate
+2025,664761,"Bohm, Alec",2,Balanced Hitters,0,Selective / Moderate
+2025,665161,"Peña, Jeremy",2,Balanced Hitters,0,Selective / Moderate
+2025,665487,"Tatis Jr., Fernando",1,Power Hitters,0,Selective / Moderate
+2025,665489,"Guerrero Jr., Vladimir",1,Power Hitters,0,Selective / Moderate
+2025,665742,"Soto, Juan",1,Power Hitters,0,Selective / Moderate
+2025,665833,"Cruz, Oneil",1,Power Hitters,0,Selective / Moderate
+2025,665862,"Chisholm Jr., Jazz",1,Power Hitters,0,Selective / Moderate
+2025,666158,"Lux, Gavin",0,Hitters With Good Contact,0,Selective / Moderate
+2025,666176,"Adell, Jo",1,Power Hitters,0,Selective / Moderate
+2025,666182,"Bichette, Bo",2,Balanced Hitters,0,Selective / Moderate
+2025,666969,"García, Adolis",1,Power Hitters,2,Aggressive Fastball
+2025,666971,"Gurriel Jr., Lourdes",2,Balanced Hitters,0,Selective / Moderate
+2025,667670,"Rooker, Brent",1,Power Hitters,0,Selective / Moderate
+2025,668227,"Arozarena, Randy",1,Power Hitters,0,Selective / Moderate
+2025,668715,"Steer, Spencer",0,Hitters With Good Contact,2,Aggressive Fastball
+2025,668804,"Reynolds, Bryan",1,Power Hitters,0,Selective / Moderate
+2025,668930,"Turang, Brice",2,Balanced Hitters,0,Selective / Moderate
+2025,669127,"Langeliers, Shea",1,Power Hitters,0,Selective / Moderate
+2025,669364,"Edwards, Xavier",0,Hitters With Good Contact,0,Selective / Moderate
+2025,669701,"Smith, Josh",0,Hitters With Good Contact,0,Selective / Moderate
+2025,670770,"Friedl, TJ",0,Hitters With Good Contact,0,Selective / Moderate
+2025,671218,"Ramos, Heliot",1,Power Hitters,0,Selective / Moderate
+2025,671277,"García Jr., Luis",2,Balanced Hitters,0,Selective / Moderate
+2025,671732,"Butler, Lawrence",2,Balanced Hitters,0,Selective / Moderate
+2025,671739,"Harris II, Michael",1,Power Hitters,0,Selective / Moderate
+2025,672386,"Kirk, Alejandro",1,Power Hitters,2,Aggressive Fastball
+2025,672580,"Garcia, Maikel",2,Balanced Hitters,0,Selective / Moderate
+2025,672640,"Lopez, Otto",2,Balanced Hitters,0,Selective / Moderate
+2025,672695,"Perdomo, Geraldo",0,Hitters With Good Contact,0,Selective / Moderate
+2025,672820,"Sosa, Lenyn",2,Balanced Hitters,0,Selective / Moderate
+2025,673237,"Diaz, Yainer",2,Balanced Hitters,0,Selective / Moderate
+2025,673548,"Suzuki, Seiya",1,Power Hitters,0,Selective / Moderate
+2025,673962,"Jung, Josh",2,Balanced Hitters,0,Selective / Moderate
+2025,676391,"Clement, Ernie",0,Hitters With Good Contact,0,Selective / Moderate
+2025,676475,"Burleson, Alec",2,Balanced Hitters,0,Selective / Moderate
+2025,676572,"Wagaman, Eric",2,Balanced Hitters,0,Selective / Moderate
+2025,677594,"Rodríguez, Julio",1,Power Hitters,0,Selective / Moderate
+2025,677951,"Witt Jr., Bobby",1,Power Hitters,0,Selective / Moderate
+2025,678246,"Vargas, Miguel",2,Balanced Hitters,2,Aggressive Fastball
+2025,678882,"Rafaela, Ceddanne",2,Balanced Hitters,0,Selective / Moderate
+2025,679529,"Torkelson, Spencer",1,Power Hitters,0,Selective / Moderate
+2025,680574,"McLain, Matt",2,Balanced Hitters,0,Selective / Moderate
+2025,680757,"Kwan, Steven",0,Hitters With Good Contact,0,Selective / Moderate
+2025,680776,"Duran, Jarren",1,Power Hitters,0,Selective / Moderate
+2025,680977,"Donovan, Brendan",2,Balanced Hitters,2,Aggressive Fastball
+2025,681082,"Stott, Bryson",0,Hitters With Good Contact,0,Selective / Moderate
+2025,681624,"Pages, Andy",2,Balanced Hitters,0,Selective / Moderate
+2025,682663,"Ramírez, Agustín",1,Power Hitters,0,Selective / Moderate
+2025,682829,"De La Cruz, Elly",1,Power Hitters,0,Selective / Moderate
+2025,682928,"Abrams, CJ",2,Balanced Hitters,0,Selective / Moderate
+2025,682985,"Greene, Riley",1,Power Hitters,0,Selective / Moderate
+2025,682998,"Carroll, Corbin",1,Power Hitters,0,Selective / Moderate
+2025,683002,"Henderson, Gunnar",1,Power Hitters,0,Selective / Moderate
+2025,683011,"Volpe, Anthony",2,Balanced Hitters,0,Selective / Moderate
+2025,683737,"Busch, Michael",1,Power Hitters,0,Selective / Moderate
+2025,686217,"Frelick, Sal",0,Hitters With Good Contact,0,Selective / Moderate
+2025,686469,"Pasquantino, Vinnie",2,Balanced Hitters,0,Selective / Moderate
+2025,686668,"Doyle, Brenton",2,Balanced Hitters,0,Selective / Moderate
+2025,686797,"Lee, Brooks",0,Hitters With Good Contact,0,Selective / Moderate
+2025,687263,"Neto, Zach",1,Power Hitters,0,Selective / Moderate
+2025,687401,"Ortiz, Joey",0,Hitters With Good Contact,0,Selective / Moderate
+2025,687597,"Beck, Jordan",2,Balanced Hitters,0,Selective / Moderate
+2025,691016,"Soderstrom, Tyler",1,Power Hitters,0,Selective / Moderate
+2025,691026,"Winn, Masyn",0,Hitters With Good Contact,0,Selective / Moderate
+2025,691406,"Caminero, Junior",1,Power Hitters,0,Selective / Moderate
+2025,691718,"Crow-Armstrong, Pete",2,Balanced Hitters,0,Selective / Moderate
+2025,694192,"Chourio, Jackson",2,Balanced Hitters,0,Selective / Moderate
+2025,694384,"Schanuel, Nolan",0,Hitters With Good Contact,0,Selective / Moderate
+2025,694671,"Langford, Wyatt",1,Power Hitters,0,Selective / Moderate
+2025,695578,"Wood, James",1,Power Hitters,0,Selective / Moderate
+2025,696100,"Goodman, Hunter",1,Power Hitters,0,Selective / Moderate
+2025,700250,"Rice, Ben",1,Power Hitters,0,Selective / Moderate
+2025,700932,"Manzardo, Kyle",2,Balanced Hitters,0,Selective / Moderate
+2025,702332,"Durbin, Caleb",0,Hitters With Good Contact,0,Selective / Moderate
+2025,702616,"Holliday, Jackson",2,Balanced Hitters,0,Selective / Moderate
+2025,805367,"Meidroth, Chase",0,Hitters With Good Contact,2,Aggressive Fastball
+2025,805779,"Wilson, Jacob",0,Hitters With Good Contact,2,Aggressive Fastball
+2025,808982,"Lee, Jung Hoo",0,Hitters With Good Contact,0,Selective / Moderate
