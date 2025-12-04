@@ -38,6 +38,16 @@ This notebook contains the clustering process for hitter discipline, pitch-type 
 
 The AssociationMining folder contains the complete association rule pipeline and outputs for each season.
 
+#### Downloading Play by Play Data
+Use the following notebook to download pitch-level Statcast data:
+
+```./AssociationMining/statcast_data_download.ipynb```
+
+Since each year of pitch-level data is extremely large, you may instead download the preprocessed files from the OneDrive link shared in the projct report.
+
+#### Mining for rules
+Moving on to the association rule mining (assuming you have all the data required).
+
 For example, the 2019 workflow:
 
 ```./AssociationMining/2019_association_rules.ipynb```
